@@ -1,0 +1,130 @@
+{
+    "location": "hyderabad",
+    "subscription": {
+        "type": "basic",
+        "icon": {
+            "iconFontName": "MaterialCommunityIcons",
+            "name": "video-vintage",
+            "size": "26",
+            "color": "#FFF"
+        },
+        "image": "testimageurl",
+        "description": "Live classes @INR 249  month.Join Live Yoga & Medication classes everyday",
+        "subscribeButton": {
+            "icon": {
+                "iconFontName": "MaterialCommunityIcons",
+                "name": "lock-open-outline",
+                "size": "20",
+                "color": "black"
+            },
+            "title": "Subscribe to Premium",
+            "clickToAction": {
+                "Type": "Link_To_CorrespondingPage",
+                "correspondingvalue": "link to premium page"
+            }
+        }
+    },
+    "liveBanners": [
+        {
+            "id": "1",
+            "title": "Swathfit Packages",
+            "name": "Now is a good time for health check up.Book Now!",
+            "image": "https://i.ibb.co/s10wHK0/doc.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "2",
+            "title": "My Nutrigene",
+            "name": "Find the perfect diet plan for you with this DNA based test.30% exclusive discount.Book Now!",
+            "image": "https://i.ibb.co/Pg2w80x/Rectangle-17.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "3",
+            "title": "Genomepatri Immunity",
+            "name": "DNA based assessment of factors that affect your overall immunity and risk of infection",
+            "image": "https://i.ibb.co/Pg2w80x/Rectangle-17.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "4",
+            "title": "Genomepatri Immunity",
+            "name": "DNA based assessment of factors that affect your overall immunity and risk of infection",
+            "image": "https://i.ibb.co/Pg2w80x/Rectangle-17.png",
+            "clickToAction": "function()"
+        }
+    ],
+    "tiles": [
+        {
+            "id": "1",
+            "title": "My Tasksfrt",
+            "image": "https://ibb.co/rMfnP5k",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "2",
+            "title": "Buy Tests",
+            "image": "https://ibb.co/5M6wtDB",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "3",
+            "title": "Healthopaedia",
+            "image": "https://ibb.co/JzMXZw3",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "4",
+            "title": "Health Wheel",
+            "image": "https://ibb.co/pRnZgbT",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "5",
+            "title": "Tracker",
+            "image": "https://ibb.co/yXVvs9d",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "6",
+            "title": "Groups",
+            "image": "https://ibb.co/Y04j6SV",
+            "clickToAction": "function()"
+        }
+    ],
+    "bottomNavBar": [
+        {
+            "iconFontName": "MaterialCommunityIcons",
+            "name": "home",
+            "size": "26",
+            "color": "#000",
+            "title": "Home",
+            "clickToAction": {
+                "Type": "Link_To_CorrespondingPage",
+                "correspondingvalue": "url to home page"
+            }
+        },
+        {
+            "iconFontName": "MaterialCommunityIcons",
+            "name": "star",
+            "size": "26",
+            "color": "#000",
+            "title": "star",
+            "clickToAction": {
+                "Type": "Link_To_CorrespondingPage",
+                "correspondingvalue": "url to premium page"
+            }
+        },
+        {
+            "iconFontName": "MaterialCommunityIcons",
+            "name": "account",
+            "size": "26",
+            "color": "#000",
+            "title": "Profile",
+            "clickToAction": {
+                "Type": "Link_To_CorrespondingPage",
+                "correspondingvalue": "url to profile page"
+            }
+        }
+    ]
+}
