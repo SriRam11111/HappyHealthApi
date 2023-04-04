@@ -1,5 +1,22 @@
 {
-    "location": "hyderabad",
+    "topNavBar": {
+        "locationIcon": {
+            "iconFontName": "MaterialIcons",
+            "name": "location-on",
+            "size": "20"
+        },
+        "location": "hyderabad",
+        "notificationIcon": {
+            "iconFontName": "MaterialCommunityIcons",
+            "name": "bell",
+            "size": "25"
+        },
+        "menuIcon": {
+            "iconFontName": "MaterialCommunityIcons",
+            "name": "more-vert",
+            "size": "25"
+        }
+    },
     "subscription": {
         "type": "basic",
         "icon": {
@@ -36,21 +53,21 @@
             "id": "2",
             "title": "My Nutrigene",
             "name": "Find the perfect diet plan for you with this DNA based test.30% exclusive discount.Book Now!",
-            "image": "https://i.ibb.co/Pg2w80x/Rectangle-17.png",
+            "image": "https://i.ibb.co/6DBmQCd/mynutrition.png",
             "clickToAction": "function()"
         },
         {
             "id": "3",
             "title": "Genomepatri Immunity",
             "name": "DNA based assessment of factors that affect your overall immunity and risk of infection",
-            "image": "https://i.ibb.co/Pg2w80x/Rectangle-17.png",
+            "image": "https://i.ibb.co/CHsnQGY/Genomepatri-Immunity.png",
             "clickToAction": "function()"
         },
         {
             "id": "4",
             "title": "Genomepatri Immunity",
             "name": "DNA based assessment of factors that affect your overall immunity and risk of infection",
-            "image": "https://i.ibb.co/Pg2w80x/Rectangle-17.png",
+            "image": "https://i.ibb.co/CHsnQGY/Genomepatri-Immunity.png",
             "clickToAction": "function()"
         }
     ],
@@ -58,41 +75,41 @@
         {
             "id": "1",
             "title": "My Tasksfrt",
-            "image": "https://ibb.co/rMfnP5k",
+            "image": "https://i.ibb.co/L6h4w9S/Task.png",
             "clickToAction": "function()"
         },
         {
             "id": "2",
             "title": "Buy Tests",
-            "image": "https://ibb.co/5M6wtDB",
+            "image": "https://i.ibb.co/bWPDqhz/Group.png",
             "clickToAction": "function()"
         },
         {
             "id": "3",
             "title": "Healthopaedia",
-            "image": "https://ibb.co/JzMXZw3",
+            "image": "https://i.ibb.co/br8ptMb/Healthopaedia.png",
             "clickToAction": "function()"
         },
         {
             "id": "4",
             "title": "Health Wheel",
-            "image": "https://ibb.co/pRnZgbT",
+            "image": "https://i.ibb.co/tx3cSQ6/Health-Score-card.png",
             "clickToAction": "function()"
         },
         {
             "id": "5",
             "title": "Tracker",
-            "image": "https://ibb.co/yXVvs9d",
+            "image": "https://i.ibb.co/g36qg2m/Health-Tracker.png",
             "clickToAction": "function()"
         },
         {
             "id": "6",
             "title": "Groups",
-            "image": "https://ibb.co/Y04j6SV",
+            "image": "https://i.ibb.co/6Xcs2Sq/Groups.png",
             "clickToAction": "function()"
         }
     ],
-    "bottomNavBar": [
+    "bottomTab": [
         {
             "iconFontName": "MaterialCommunityIcons",
             "name": "home",

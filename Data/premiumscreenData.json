@@ -1,0 +1,193 @@
+{   "topNavBar": {
+        "locationIcon": {
+            "iconFontName": "Icon",
+            "name": "arrow-back-ios",
+            "size": "20"
+        },
+        "description": "Premium",
+        "notificationIcon": {
+            "iconFontName": "Ionicons",
+            "name": "notifications",
+            "size": "20"
+        },
+        "menuIcon": {
+            "iconFontName": "SimpleLineIcons",
+            "name": "options-vertical",
+            "size": "20"
+        }
+    },
+    "title": "Unlock Happily Health Premium",
+    "premiumBenefits": [
+        "Live Yoga Classes Everyday",
+        "Live Meditation Session Everyday",
+        "Over 145 Holistic Health Regimens",
+        "Over 20 Video Based Regimens"
+    ],
+    "subscriptionPackages": [
+        {
+            "type": "STARTER Premium",
+            "packageName": "STARTER",
+            "title": "Premium Package",
+            "defaultSelectedPlanId": 3,
+            "plans": [
+                {
+                    "id": 1,
+                    "price": "₹ 99",
+                    "validity": "Monthly",
+                    "clickToAction": {
+                        "type": "monthlyPack",
+                        "correspondingAction": "selected"
+                    }
+                },
+                {
+                    "id": 2,
+                    "price": "₹ 249",
+                    "validity": "Quarter",
+                    "clickToAction": {
+                        "type": "QuarterPack",
+                        "correspondingAction": "selected"
+                    }
+                },
+                {
+                    "id": 3,
+                    "price": "₹ 899",
+                    "validity": "Year",
+                    "clickToAction": {
+                        "type": "YearPack",
+                        "correspondingAction": "selected"
+                    }
+                }
+            ],
+            "description": [
+                "4 Live classes (per month)",
+                "Special Regimens",
+                "Analytics Reports",
+                "Tracker"
+            ],
+            "subscribeButton": {
+                "icon": {
+                    "iconFontName": "MaterialCommunityIcons",
+                    "name": "lock-open-outline",
+                    "size": "20",
+                    "color": "#f8f9fa"
+                },
+                "title": "Subscribe to Premium",
+                "clickToAction": {
+                    "Type": "Link_To_CorrespondingPage",
+                    "correspondingvalue": "link to premium page"
+                }
+            }
+        },
+        {
+            "type": "LITE Premium",
+            "packageName": "LITE",
+            "title": "Premium Package",
+            "defaultSelectedPlanId": 6,
+            "plans": [
+                {
+                    "id": 4,
+                    "price": "₹ 249",
+                    "validity": "Monthly",
+                    "clickToAction": {
+                        "type": "monthlyPack",
+                        "correspondingAction": "selected"
+                    }
+                },
+                {
+                    "id": 5,
+                    "price": "₹ 689",
+                    "validity": "Quarter",
+                    "clickToAction": {
+                        "type": "QuarterPack",
+                        "correspondingAction": "selected"
+                    }
+                },
+                {
+                    "id": 6,
+                    "price": "₹ 2299",
+                    "validity": "Year",
+                    "clickToAction": {
+                        "type": "YearPack",
+                        "correspondingAction": "selected"
+                    }
+                }
+            ],
+            "description": [
+                "8 Live classes (per month)",
+                "Special Regimens",
+                "Analytics Reports",
+                "Tracker",
+                "5.00% Test Discounts"
+            ],
+            "subscribeButton": {
+                "icon": {
+                    "iconFontName": "MaterialCommunityIcons",
+                    "name": "lock-open-outline",
+                    "size": "20",
+                    "color": "#f8f9fa"
+                },
+                "title": "Subscribe to Premium",
+                "clickToAction": {
+                    "Type": "Link_To_CorrespondingPage",
+                    "correspondingvalue": "link to premium page"
+                }
+            }
+        },
+        {
+            "type": "CORE Premium",
+            "packageName": "CORE",
+            "title":"Premium Package",
+            "defaultSelectedPlanId": 9,
+            "plans": [
+                {
+                    "id": 7,
+                    "price": "₹ 649",
+                    "validity": "Monthly",
+                    "clickToAction": {
+                        "type": "monthlyPack",
+                        "correspondingAction": "selected"
+                    }
+                },
+                {
+                    "id": 8,
+                    "price": "₹ 1749",
+                    "validity": "Quarter",
+                    "clickToAction": {
+                        "type": "QuarterPack",
+                        "correspondingAction": "selected"
+                    }
+                },
+                {
+                    "id": 9,
+                    "price": "₹ 5949",
+                    "validity": "Year",
+                    "clickToAction": {
+                        "type": "YearPack",
+                        "correspondingAction": "selected"
+                    }
+                }
+            ],
+            "description": [
+                "100 Live classes (per month)",
+                "Special Regimens",
+                "Analytics Reports",
+                "Tracker",
+                "7.50% Test Discounts"
+            ],
+            "subscribeButton": {
+                "icon": {
+                    "iconFontName": "MaterialCommunityIcons",
+                    "name": "lock-open-outline",
+                    "size": "20",
+                    "color": "#f8f9fa"
+                },
+                "title": "Subscribe to Premium",
+                "clickToAction": {
+                    "Type": "Link_To_CorrespondingPage",
+                    "correspondingvalue": "link to premium page"
+                }
+            }
+        }
+    ],
+    "suggestions":["a","b","c","d"]
+}
