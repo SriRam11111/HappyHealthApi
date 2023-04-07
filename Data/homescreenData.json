@@ -74,7 +74,7 @@
     "tiles": [
         {
             "id": "1",
-            "title": "My Tasksfrt",
+            "title": "My Tasks",
             "image": "https://i.ibb.co/L6h4w9S/Task.png",
             "clickToAction": "function()"
         },
@@ -94,6 +94,36 @@
             "id": "4",
             "title": "Health Wheel",
             "image": "https://i.ibb.co/tx3cSQ6/Health-Score-card.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "5",
+            "title": "Tracker",
+            "image": "https://i.ibb.co/g36qg2m/Health-Tracker.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "6",
+            "title": "Groups",
+            "image": "https://i.ibb.co/6Xcs2Sq/Groups.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "4",
+            "title": "Health Wheel",
+            "image": "https://i.ibb.co/tx3cSQ6/Health-Score-card.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "5",
+            "title": "Tracker",
+            "image": "https://i.ibb.co/g36qg2m/Health-Tracker.png",
+            "clickToAction": "function()"
+        },
+        {
+            "id": "6",
+            "title": "Groups",
+            "image": "https://i.ibb.co/6Xcs2Sq/Groups.png",
             "clickToAction": "function()"
         },
         {
